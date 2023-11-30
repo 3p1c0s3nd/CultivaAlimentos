@@ -1,17 +1,16 @@
 # app_cocechar
 
-A new Flutter project.
+La app fue desarrollada con el fin de ampliar mis conocimientos en dart y flutter sobre el manejo de rutas.
 
-## Getting Started
+Esta es un app que da informacion sobre como cultivar maiz, papa, zanahoria etc...
 
-This project is a starting point for a Flutter application.
+Esta desarrollada en flutter y dart, la informacion se localiza en 2 archivos
 
-A few resources to get you started if this is your first Flutter project:
+info_json.dart -> Informacion sobre cultivos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+detail_json.dart -> Informacion detallada sobre como cultivar algo en especifico
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# CultivaAlimentos
+
+![Alt text](image.png)
+
+![Alt text](image-1.png)
