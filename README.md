@@ -11,6 +11,16 @@ info_json.dart -> Informacion sobre cultivos
 detail_json.dart -> Informacion detallada sobre como cultivar algo en especifico
 
 
+para compilar 
+
+flutter build apk
+
+flutter build web
+
+
+
+
+
 ![Alt text](image.png)
 
 ![Alt text](image-1.png)
